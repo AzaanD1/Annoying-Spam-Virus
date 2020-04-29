@@ -1,5 +1,3 @@
-# Annoying-Spam-Virus
-Very Basic, but insanely annoying if popups aren't blocked...
 
 <html>
     <head>
